@@ -1,0 +1,1 @@
+All you need to change is in the configs folder (price for revive, npc coords e.t.c)
